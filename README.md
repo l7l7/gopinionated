@@ -19,8 +19,10 @@ Most availible IDEs are either incompatible with screen readers or take a while 
 - [ ] Godoc invocation
 - [ ] this list should be extended
 
+
 ###Goals for v0.1 beta
 - [ ] Get something solid and working.
+
 
 ###Goals for 1.0 releace
 - [ ] Fulfill above requirements and produce usable and tested product.
